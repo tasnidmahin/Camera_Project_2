@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MAGIC Camera</string>
+    
+    <string-array name="effect_names">
+        <item>No Effect\n</item>
+        <item>Auto fix Effect\n</item>
+        <item>Black and White Effect\n</item>
+        <item>Brightness Effect\n</item>
+        <item>Contrast Effect\n</item>
+        <item>Cross Process Effect\n</item>
+        <item>Documentary Effect\n</item>
+        <item>Duotone Effect\n</item>
+        <item>Fill Light Effect\n</item>
+        <item>Gamma Effect\n</item>
+        <item>Grain Effect\n</item>
+        <item>GreyScale Effect\n</item>
+        <item>Hue Effect\n</item>
+        <item>Invert Color Effect\n</item>
+        <item>Lamonish Effect\n</item>
+        <item>Posterize Effect\n</item>
+        <item>Saturation Effect\n</item>
+        <item>Sepia Effect\n</item>
+        <item>Sharpness Effect\n</item>
+        <item>Temperature Effect\n</item>
+        <item>Tint Effect\n</item>
+        <item>Vignette Effect\n</item>
+
+    </string-array>
+</resources>
